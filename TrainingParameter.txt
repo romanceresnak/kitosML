@@ -1,0 +1,12 @@
+{
+	"context_length": "6",
+	"epochs": "500",
+	"learning_rate": "1E-3",
+	"learning_rate_decay": "0.5",
+	"likelihood": "student-t",
+	"max_learning_rate_decays": "0",
+	"num_averaged_models": "1",
+	"num_cells": "40",
+	"num_layers": "2",
+	"prediction_length": "3"
+}
