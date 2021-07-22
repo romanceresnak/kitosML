@@ -1,0 +1,16 @@
+{
+        "Attributes": [
+          {
+            "AttributeName": "item_id",
+            "AttributeType": "string"
+          },
+          {
+            "AttributeName": "timestamp",
+            "AttributeType": "timestamp"
+          },
+          {
+            "AttributeName": "demand",
+            "AttributeType": "float"
+          }
+        ]
+}
